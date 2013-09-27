@@ -1,0 +1,4 @@
+name: kuwento
+markdown: redcarpet
+pygments: true
+basesurl: /
